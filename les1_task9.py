@@ -13,3 +13,6 @@ elif num1 < num2 < num3 or num3 < num2 < num1:
 else:
     print('Среднее:', num3)
 
+
+
+
