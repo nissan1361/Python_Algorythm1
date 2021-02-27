@@ -10,3 +10,6 @@ result1 = x1 + x2 + x3
 result2 = x1 * x2 * x3
 
 print("Сумма цифр = {}, Произведение = {}".format(result1, result2))
+
+
+

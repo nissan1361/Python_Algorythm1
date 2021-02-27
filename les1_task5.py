@@ -12,3 +12,6 @@ print("Буква {} стоит на месте {}".format(char2, ch_num2 - 96))
 
 ch_range = ch_num2 - ch_num1
 print("Между ними: "+ str(ch_range))
+
+
+
